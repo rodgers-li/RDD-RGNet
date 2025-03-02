@@ -4,15 +4,15 @@ A Method of Road Damage Detection for Complex Background Images Based on Region 
 ## Get start
 
 ### Training
-···python
+···Python
 python run_train.py
 
 ### testing
-···python
+···Python
 python run_val.py
 
 ### prediction
-···python
+···Python
 python run_detect.py
 
 ## Acknowledgment
