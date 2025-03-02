@@ -19,4 +19,4 @@ python run_detect.py
 ```
 
 ## Acknowledgment
-This implementation is bulit upon [YOLOv8](https://github.com/ultralytics/ultralytics/).
+This implementation is bulit upon [YOLOv8].
