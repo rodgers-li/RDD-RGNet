@@ -19,4 +19,4 @@ python run_detect.py
 ```
 
 ## Acknowledgment
-This implementation is bulit upon [YOLOv8].
+This implementation is bulit upon YOLOv8.
