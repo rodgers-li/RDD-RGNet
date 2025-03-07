@@ -1,0 +1,12 @@
+path: E:/dataset/RDD2020  # dataset root dir
+train: train.txt
+val: val.txt
+test: val.txt
+
+# Classes
+names:
+  0: D00
+  1: D10
+  2: D20
+  3: D40
+

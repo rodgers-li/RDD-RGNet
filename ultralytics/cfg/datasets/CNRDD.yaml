@@ -1,0 +1,13 @@
+path: E:/dataset/CNRDD/train/2022  # dataset root dir
+train: main-train3500-val795/train.txt
+val: main-train3500-val795/val.txt
+test: main-train3500-val795/val.txt
+
+# Classes
+names:
+  0: S_1
+  1: S_3
+  2: S_4
+  3: S_5
+  4: S_6
+
