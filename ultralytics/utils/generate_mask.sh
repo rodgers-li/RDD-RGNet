@@ -1,0 +1,1 @@
+nohup python generate_mask.py >generate_mask_log.log 2>&1 &
